@@ -23,7 +23,8 @@
 ## Saída
 
 <div> 
-    <img width="100%" src="./public/print.png" alt="prints saída">
+    <img width="85%" src="./public/print.png" alt="prints saída">
+    <img width="85%" src="./public/print2.png" alt="prints saída">
     
 </div>
 </div>
