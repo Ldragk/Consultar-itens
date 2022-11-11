@@ -5,7 +5,7 @@
 ## Python
 
 <p>Programinha desenvolvido por mim, em função Curso de Python da Fiap</p>
-<p>O programa serve para cadastrar itens ao estoque, com suas especificações, verifica-los em estoque, exluir, atribuir desconto, e mais algumas funções. </p>
+<p>O programa serve para cadastrar itens ao estoque, com suas especificações, verificá-los em estoque, excluir, atribuir desconto, e mais algumas funções.</p>
 
 </div>
 <br>
